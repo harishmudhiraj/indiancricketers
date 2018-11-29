@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(3, 169, 244);
+}
+h2{
+    background-color:rgb(151, 127, 95);
+    text-align:center;
+        color:white;
+        padding:10px;
+        font-family: 'Open Sans', sans-serif;
+    }
+    p{
+        font-family: 'Open Sans', sans-serif;
+        color:rgb(00,00,00);
+    }
+    #links{
+        text-align: center;
+    }
+    body{
+        background-color: antiquewhite;
+    }
+    header{
+        list-style-image: url("./img/indianflag.gif");
+    }
